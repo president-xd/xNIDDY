@@ -1,2 +1,2 @@
-# Network-Intrusion-Detection-System
-A python-based Network Intusion Detection System, for every one.
+# xNIDDY
+Python based Network Intrusion Detection System.
